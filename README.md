@@ -8,7 +8,7 @@ This project was bootstrapped with Create React App.
 
 ## DEMO
 
-You can visit the [DEMO](https://kzaviryukha/kzaviryukha.github.io/demo/travel-list/index.html) page.
+You can visit the [DEMO](demo/travel-list/index.html) page.
 
 ### Available Scripts
 
